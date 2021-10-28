@@ -62,11 +62,13 @@ section{
     border-left: 7px solid;
     border-image: linear-gradient(180deg, yellow,tomato);
     border-image-slice: 1;
+    overflow: scroll;
 }
 #baby-web{
     border-left: 7px solid;
     border-image: linear-gradient(180deg, blue, rgb(19, 231, 231));
     border-image-slice: 1;
+    overflow: scroll;
 }
 footer p{
     text-align: center;
