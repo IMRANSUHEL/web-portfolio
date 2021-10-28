@@ -23,6 +23,7 @@ p{
 }
 .half-width img{
     width: 90%;
+    float: right;
 }
 .top-banner{
     background-image: url("images/top-banner.png");
